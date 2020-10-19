@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "345cc5c5871391bf7b96d7aaaeadfbff",
+    "revision": "71ae4f0e32619eb93bc148b8e7a1979e",
     "url": "/Soumik-Sen/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Soumik-Sen/static/css/2.fb346933.chunk.css"
   },
   {
-    "revision": "6a0dd05c8b2bef6db908",
+    "revision": "76095779b4f8cb872e42",
     "url": "/Soumik-Sen/static/css/main.347926f1.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Soumik-Sen/static/js/2.088ed1b8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6a0dd05c8b2bef6db908",
-    "url": "/Soumik-Sen/static/js/main.64594f00.chunk.js"
+    "revision": "76095779b4f8cb872e42",
+    "url": "/Soumik-Sen/static/js/main.2afa978c.chunk.js"
   },
   {
     "revision": "1a2920eb19eb74ed9fbf",
