@@ -11,18 +11,18 @@ class Profile extends Component {
         <center><h1 style={{fontSize: "40px", fontWeight: "400",color: "white"}}>Profile</h1></center>
         <Container>
           <Row>
-            <Col>
+            <Col sm={4}>
               <h1 style = {{fontSize: "25px", fontWight: "300", color: "white"}}>About me</h1>
               <p style={{align: "left"}}>I am a motivated and responsible college student.
                                         I possess a good problem solving skill and a strong drive
                                         to see things through to completion.
               </p>
             </Col>
-            <Col>
+            <Col sm={4}>
             <center><img style={{width: "160px", height: "160px", overflow:"hidden", borderRadius: "80px",
                             }} src={me}/></center>
             </Col>
-            <Col>
+            <Col sm={4}>
               <h1 style = {{fontSize: "25px", fontWight: "300", color: "white"}}>Details</h1>
               <b>Name:</b><br/>
               Soumik Sen<br/>
