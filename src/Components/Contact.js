@@ -13,7 +13,7 @@ class Contact extends Component {
             </Col>
             <Col>
               <b>Email:</b><br/>
-                <a href="rimotimosen@gmail.com">rimotimosen@gmail.com</a><br/><br/>
+                <a href="mailto:rimotimosen@gmail.com">rimotimosen@gmail.com</a><br/><br/>
               <b>Phone:</b><br/>
                 9748345124<br/><br/>
               <b>Address:</b><br/>
