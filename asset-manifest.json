@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Soumik-Sen/static/css/main.347926f1.chunk.css",
-    "main.js": "/Soumik-Sen/static/js/main.1569e1fd.chunk.js",
-    "main.js.map": "/Soumik-Sen/static/js/main.1569e1fd.chunk.js.map",
+    "main.js": "/Soumik-Sen/static/js/main.921c6a60.chunk.js",
+    "main.js.map": "/Soumik-Sen/static/js/main.921c6a60.chunk.js.map",
     "runtime-main.js": "/Soumik-Sen/static/js/runtime-main.24c1e5d2.js",
     "runtime-main.js.map": "/Soumik-Sen/static/js/runtime-main.24c1e5d2.js.map",
     "static/css/2.fb346933.chunk.css": "/Soumik-Sen/static/css/2.fb346933.chunk.css",
     "static/js/2.3b250b2a.chunk.js": "/Soumik-Sen/static/js/2.3b250b2a.chunk.js",
     "static/js/2.3b250b2a.chunk.js.map": "/Soumik-Sen/static/js/2.3b250b2a.chunk.js.map",
     "index.html": "/Soumik-Sen/index.html",
-    "precache-manifest.4b7ff514817f4036b783a8d4509669ff.js": "/Soumik-Sen/precache-manifest.4b7ff514817f4036b783a8d4509669ff.js",
+    "precache-manifest.92cc36ef5eff0ff33aedfd5e2076d62a.js": "/Soumik-Sen/precache-manifest.92cc36ef5eff0ff33aedfd5e2076d62a.js",
     "service-worker.js": "/Soumik-Sen/service-worker.js",
     "static/css/2.fb346933.chunk.css.map": "/Soumik-Sen/static/css/2.fb346933.chunk.css.map",
     "static/css/main.347926f1.chunk.css.map": "/Soumik-Sen/static/css/main.347926f1.chunk.css.map",
@@ -26,6 +26,6 @@
     "static/css/2.fb346933.chunk.css",
     "static/js/2.3b250b2a.chunk.js",
     "static/css/main.347926f1.chunk.css",
-    "static/js/main.1569e1fd.chunk.js"
+    "static/js/main.921c6a60.chunk.js"
   ]
 }
