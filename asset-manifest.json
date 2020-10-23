@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Soumik-Sen/static/css/main.347926f1.chunk.css",
-    "main.js": "/Soumik-Sen/static/js/main.3a9838ca.chunk.js",
-    "main.js.map": "/Soumik-Sen/static/js/main.3a9838ca.chunk.js.map",
+    "main.js": "/Soumik-Sen/static/js/main.1ca4de30.chunk.js",
+    "main.js.map": "/Soumik-Sen/static/js/main.1ca4de30.chunk.js.map",
     "runtime-main.js": "/Soumik-Sen/static/js/runtime-main.24c1e5d2.js",
     "runtime-main.js.map": "/Soumik-Sen/static/js/runtime-main.24c1e5d2.js.map",
     "static/css/2.fb346933.chunk.css": "/Soumik-Sen/static/css/2.fb346933.chunk.css",
     "static/js/2.3b250b2a.chunk.js": "/Soumik-Sen/static/js/2.3b250b2a.chunk.js",
     "static/js/2.3b250b2a.chunk.js.map": "/Soumik-Sen/static/js/2.3b250b2a.chunk.js.map",
     "index.html": "/Soumik-Sen/index.html",
-    "precache-manifest.49483e6ee2cabb5dca7a6d6b8eba1169.js": "/Soumik-Sen/precache-manifest.49483e6ee2cabb5dca7a6d6b8eba1169.js",
+    "precache-manifest.cc44aadd3ea8ee49463a9a4010b06870.js": "/Soumik-Sen/precache-manifest.cc44aadd3ea8ee49463a9a4010b06870.js",
     "service-worker.js": "/Soumik-Sen/service-worker.js",
     "static/css/2.fb346933.chunk.css.map": "/Soumik-Sen/static/css/2.fb346933.chunk.css.map",
     "static/css/main.347926f1.chunk.css.map": "/Soumik-Sen/static/css/main.347926f1.chunk.css.map",
@@ -20,13 +20,13 @@
     "static/media/lion.jpg": "/Soumik-Sen/static/media/lion.32d8645e.jpg",
     "static/media/soumik.jpg": "/Soumik-Sen/static/media/soumik.5fa2b94e.jpg",
     "static/media/stairs.jpeg": "/Soumik-Sen/static/media/stairs.690f02a2.jpeg",
-    "static/media/test.jpg": "/Soumik-Sen/static/media/test.dfa5d0a0.jpg"
+    "static/media/test.jpg": "/Soumik-Sen/static/media/test.53a16d6e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.24c1e5d2.js",
     "static/css/2.fb346933.chunk.css",
     "static/js/2.3b250b2a.chunk.js",
     "static/css/main.347926f1.chunk.css",
-    "static/js/main.3a9838ca.chunk.js"
+    "static/js/main.1ca4de30.chunk.js"
   ]
 }
