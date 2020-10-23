@@ -35,8 +35,11 @@ class About extends Component {
         <div style={{background: "black"}}>
           <div style={{ backgroundImage: `url(${stairs})`, backgroundAttachment: "fixed",
                         backgroundPosition: "center", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
-            <Name/>
-            <Profile/>
+            <div backgroundImage: `url(${image})`, backgroundSize: 'cover', color: "#fff",
+                          paddingTop: "0vw",paddingBottom: "10vw", backgroundPosition: "top"}}>
+		    <Name/>
+		    <Profile/>
+	    </div>
             <Academics/>
           </div>
           <div style={{ backgroundImage: `url(${mountain})`, backgroundAttachment: "fixed",

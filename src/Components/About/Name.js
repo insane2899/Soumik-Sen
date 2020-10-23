@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import {Jumbotron} from 'react-bootstrap';
 import NavigationBar from '../NavigationBar';
-import image from '../../images/code.png';
+import image from '../../images/test.jpg';
 
 class Name extends Component {
 
