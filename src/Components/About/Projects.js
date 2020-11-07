@@ -11,6 +11,15 @@ class Projects extends Component {
       <Jumbotron style={{background: "transparent",paddingBottom: "10vw",paddingLeft: "20vw", paddingRight: "20vw"}}>
         <center><h1 style={{fontSize:"40px",fontWeight:"500",color:"white"}}>Projects</h1></center>
         <Carousel showArrows={true} style={{zIndex: "5"}}>
+        	<Card className={mystyle.cardstyle}>
+                <Card.Body>
+                  <Card.Title>Chess</Card.Title>
+                  <Card.Text>
+                    This is a Chess Application made using Java 11 and Swing.
+                  </Card.Text>
+                  <Button href="https://github.com/insane2899/Chess" variant="primary">Project Link</Button>
+                </Card.Body>
+              </Card>
               <Card className={mystyle.cardstyle}>
                 <Card.Body>
                   <Card.Title>Image Reading</Card.Title>

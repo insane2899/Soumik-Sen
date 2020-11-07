@@ -5,6 +5,7 @@ import stairs from '../../images/stairs.jpeg';
 import Academics from './Academics';
 import Skills from './Skills';
 import mountain from '../../images/lion.jpg';
+import image from '../../images/test.jpg';
 import {Link} from 'react-router-dom';
 import Projects from './Projects';
 import Languages from './Languages';
@@ -35,11 +36,11 @@ class About extends Component {
         <div style={{background: "black"}}>
           <div style={{ backgroundImage: `url(${stairs})`, backgroundAttachment: "fixed",
                         backgroundPosition: "center", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
-            <div backgroundImage: `url(${image})`, backgroundSize: 'cover', color: "#fff",
-                          paddingTop: "0vw",paddingBottom: "10vw", backgroundPosition: "top"}}>
+            <div style={{backgroundImage: `url(${image})`, backgroundSize: 'cover', color: "#fff",
+                          paddingTop: "0vw",paddingBottom: "0vw", backgroundPosition: "top",backgroundRepeat:"no-repeat"}}>
 		    <Name/>
-		    <Profile/>
 	    </div>
+	    <Profile/>
             <Academics/>
           </div>
           <div style={{ backgroundImage: `url(${mountain})`, backgroundAttachment: "fixed",
