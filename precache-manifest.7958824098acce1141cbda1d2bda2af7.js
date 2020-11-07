@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "897927068d6f472ba3e30ec68015a2e5",
+    "revision": "4d413d8cf0d361ce2b1cedf8f8d41b3e",
     "url": "/Soumik-Sen/index.html"
   },
   {
-    "revision": "aaa5c5e9e7994326d6d1",
+    "revision": "6a891ab3ba0a911d8bf7",
     "url": "/Soumik-Sen/static/css/2.fb346933.chunk.css"
   },
   {
-    "revision": "be20ba8fdb836c2574bc",
+    "revision": "c4f97c5d688e8c3427c6",
     "url": "/Soumik-Sen/static/css/main.347926f1.chunk.css"
   },
   {
-    "revision": "aaa5c5e9e7994326d6d1",
-    "url": "/Soumik-Sen/static/js/2.3b250b2a.chunk.js"
+    "revision": "6a891ab3ba0a911d8bf7",
+    "url": "/Soumik-Sen/static/js/2.9e22ed80.chunk.js"
   },
   {
     "revision": "434eeea35bf11e3d22931f972c8fbb4c",
-    "url": "/Soumik-Sen/static/js/2.3b250b2a.chunk.js.LICENSE.txt"
+    "url": "/Soumik-Sen/static/js/2.9e22ed80.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "be20ba8fdb836c2574bc",
-    "url": "/Soumik-Sen/static/js/main.1ca4de30.chunk.js"
+    "revision": "c4f97c5d688e8c3427c6",
+    "url": "/Soumik-Sen/static/js/main.458ab818.chunk.js"
   },
   {
     "revision": "1a2920eb19eb74ed9fbf",
@@ -52,7 +52,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Soumik-Sen/static/media/stairs.690f02a2.jpeg"
   },
   {
-    "revision": "53a16d6ee0031e281770e2d063834767",
-    "url": "/Soumik-Sen/static/media/test.53a16d6e.jpg"
+    "revision": "dd8c2d8f3dc7fa0e602117dbbe4000e9",
+    "url": "/Soumik-Sen/static/media/test.dd8c2d8f.jpg"
   }
 ]);
