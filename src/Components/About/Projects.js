@@ -73,6 +73,15 @@ class Projects extends Component {
                   <Button href="https://github.com/insane2899/MyCalculatorv2.0" variant="primary">Project Link</Button>
                 </Card.Body>
               </Card>
+              <Card className={mystyle.cardstyle}>
+                <Card.Body>
+                  <Card.Title>IPL Statistics</Card.Title>
+                  <Card.Text>
+                    This is a full stack web application made using Java 11 and React. It keeps track of IPL teams and matches.
+                  </Card.Text>
+                  <Button href="https://github.com/insane2899/IPL-Statistics" variant="primary">Project Link</Button>
+                </Card.Body>
+              </Card>
           </Carousel>
       </Jumbotron>
     );
