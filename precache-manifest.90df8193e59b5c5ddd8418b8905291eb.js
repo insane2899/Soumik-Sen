@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e7a06e65e62141811aa06d374266cd5e",
+    "revision": "41485d2b852667fb7e647102fef3ebba",
     "url": "/Soumik-Sen/index.html"
   },
   {
-    "revision": "6a891ab3ba0a911d8bf7",
+    "revision": "3227d771282ed71c68c1",
     "url": "/Soumik-Sen/static/css/2.fb346933.chunk.css"
   },
   {
-    "revision": "9677ab66112d549b9e61",
+    "revision": "0a2d467e20c5dafd43eb",
     "url": "/Soumik-Sen/static/css/main.aed7dc35.chunk.css"
   },
   {
-    "revision": "6a891ab3ba0a911d8bf7",
-    "url": "/Soumik-Sen/static/js/2.9e22ed80.chunk.js"
+    "revision": "3227d771282ed71c68c1",
+    "url": "/Soumik-Sen/static/js/2.43c72703.chunk.js"
   },
   {
     "revision": "434eeea35bf11e3d22931f972c8fbb4c",
-    "url": "/Soumik-Sen/static/js/2.9e22ed80.chunk.js.LICENSE.txt"
+    "url": "/Soumik-Sen/static/js/2.43c72703.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9677ab66112d549b9e61",
-    "url": "/Soumik-Sen/static/js/main.458ab818.chunk.js"
+    "revision": "0a2d467e20c5dafd43eb",
+    "url": "/Soumik-Sen/static/js/main.7724b16d.chunk.js"
   },
   {
     "revision": "1a2920eb19eb74ed9fbf",
